@@ -54,5 +54,3 @@ Generative AI has pushed the boundaries of artistic creation - it can automate l
 2. Do you find the concept clear/understandable?
 3. What aspects of the concept do you find promising?
 4. What aspects of the concept do you find convoluting?
-
-Thank you :smile: :smile: :smile:   

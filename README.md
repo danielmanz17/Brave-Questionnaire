@@ -34,6 +34,8 @@ Here, you are given a model trained on the sounds of a darbouka - a traditional 
 
 Neural networks are composed of individual layers of neurons - to slide between these layers, use encoder 1. To displace these weights, sliding values to neighbouring neurons, use encoder 2. Encoder 3 allows the user to add a bias to all neurons in the respective layers - for example, the weights of all neurons present in the layer could be increased by 0.1. A scaling factor can be applied to all neuron weights via encoder 4. Encoder 5 allows the user to tweak volume to taste. Finally, a short tap of the button switch resets the current layer, and a longer tap resets the entire model.
 
+![Alt text](labelledProto.png)
+
 Generative AI has pushed the boundaries of artistic creation - it can automate laborious aspects of the artistic process, act as an initial idea generator, and democratise expression. However, this technology bears a critical downside, in that it is homogenising the cultural landscape. In response,  Brave takes a generative audio synthesis model, and exposes the internal architecture to the artist. The device seeks to explore how neural network manipulation techniques, known as “network-bending”, can be used creatively. How can you make the model misbehave? How do changing the neurons “weights” change the quality of the sound?
 
 ### Prototype Feedback

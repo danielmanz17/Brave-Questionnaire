@@ -12,8 +12,6 @@ Please answer yes or no to the following question:
 
 Please answer these questions using the following scale:
 
-| Month    | Savings |
+| 0        | 1       |
 | -------- | ------- |
 | January  | $250    |
-| February | $80     |
-| March    | $420    |
